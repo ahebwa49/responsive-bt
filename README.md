@@ -1,4 +1,4 @@
-# project-starter
+# responsive-bt
 
 # Getting Started
 
@@ -9,8 +9,8 @@ Clone this repo, install dependencies, then start the gulp process with
 the following:
 
 ```
-> git clone https://github.com/ahebwa49/project-starter.git
-> cd project-starter
+> git clone https://github.com/ahebwa49/responsive-bt.git
+> cd responsive-bt
 > npm install
 > npm start
 ```
